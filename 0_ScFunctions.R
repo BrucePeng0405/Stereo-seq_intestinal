@@ -1,9 +1,9 @@
 #===============================================================================
 # This script stores functions to analyze sc/snRNA-seq dataset
-# Version 1.7 at 2024-04-22
-# Created by Houyu Zhang
-# Issue report on houyuzhang@stu.pku.edu.cn
-# Copyright (c) 2023 __CarlosLab@PKU__. All rights reserved.
+# Version 1.0 at 2024-12-13
+# Created by Zhi Peng, the original version is from Houyu Zhang 
+# Issue report on zhi.peng@ki.se
+# Copyright (c) 2024 __MengXielab@KI__. All rights reserved.
 #===============================================================================
 #Global setup
 R.utils::setOption("clusterProfiler.download.method",'auto')
