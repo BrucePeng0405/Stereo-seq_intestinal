@@ -1,5 +1,5 @@
 # Stereo-seq_intestinal
-Code for intestinal spatial Stereo-seq data analysis, published in XXX.
+Code for intestinal spatial Stereo-seq data analysis, published in Cell Reports, "Prior High Fiber Intake Impinges on the Cellular Responses of Mesenteric Adipose and Intestinal Tissues to Subsequent High Fat Feeding".
 
 
 Code and order to reproduce as follow:
